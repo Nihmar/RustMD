@@ -1,2 +1,32 @@
 # RustMD
-A pure Rust markdown  editor
+
+A pure Rust markdown  editor.
+
+## Features
+
+None.
+
+## Planned Features
+
+- [ ] Multiplatform
+  - [ ] Windows
+  - [ ] Linux
+  - [ ] Mac (untestable)
+- [ ] Markdown and TXT editor
+- [ ] todo.txt support
+- [ ] WebDAV sync support (http and https)
+- [ ] Fast
+  - [ ] It should scale better than Obsidian
+  - [ ] Opening times
+  - [ ] Scrolling speed
+- [ ] Rendered view
+- [ ] Index of folders
+- [ ] Per-folder settings
+- [ ] Wiki-Links
+- [ ] Even this is already enough. We'll see...
+
+## Some honest thoughts
+
+1) I'm a mathematician by degree, Delphi programmer by trade. ZERO experience with Rust
+2) This project is so subject to my available time, I don't even know if I'll write anything after starting this repo
+3) Wish me luck
